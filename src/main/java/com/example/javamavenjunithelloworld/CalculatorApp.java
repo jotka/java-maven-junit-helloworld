@@ -16,6 +16,6 @@ public class CalculatorApp {
         int a = 1;
         int b = 2;
         int c = calc.add(a, b);
-        System.out.println("Sum = " + c);
+        System.out.println("Sum of " + a + " and " + b + " equals " + c);
     }
 }
